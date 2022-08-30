@@ -21,7 +21,7 @@ using namespace std;
 
 
 int main() {
-    // lol
+    
 
 
     std::cout << std::fixed;
